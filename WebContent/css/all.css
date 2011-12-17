@@ -1,0 +1,24 @@
+label {
+	width: 4em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+	display: block
+}
+
+.submit input {
+	margin-left: 8em;
+}
+
+body {
+	color: lightgray;
+	background-color: black;
+}
+
+table, td, th {
+	border:1px solid green;
+}
+th {
+	background-color:green;
+	color:white;
+}
